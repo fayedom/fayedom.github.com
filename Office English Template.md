@@ -1,0 +1,68 @@
+@@ -0,0 +1,15 @@
++---
++layout: page
++title: Office English Template
++tagline: 
++category: Language
++tags: [English]
++---
++{% include JB/setup %}
++ 1. Note(便条)
++ Key: Date, Salutation, Body, Signature
++ Features: Oral
++ Template:
++                                                                           Tuesday 12 p.m./May 5th
++ To: Mr Chen
++ Message:
++     Mr. Wang called from England, wanted you to call him today before 5 p.m. or any time tomorrow.
++ His number is 13514587612.
++                                                                        Message taken by: Miss Liu
++ 2. Announcement (启事)
++ Key: Title larger than content, center; content terse and concise; announcer and date.
++ Template:
++                                   ABC Corporation Removal Notice 
++     As a result of business expansion, our company has decided to move from the present address to
++ the new office building in Haidian District in Beijing on March 1, 2013. The changes in address and
++ telephone numbers are as follows:
++    Post Code:100044
++    Fax:(0086-10)6379 3367
++    Tel. of Front Desk:(0086-10)6379 2948
++    Tel. of HR Dept.:(0086-10)6379 3847
++    Tel. of Account Dept.:(0086-10)6379 4759
++    Tel. of Sales Dept.:(0086-10)6379 5078
++                                                                                    ABC Corporation
++                                                                                 February 20th,2013
++ 3. Briefing(简报)
++ Key: Timely, Concise, To the Point
++ Template:
++                               ABC Corporation Sales Conference Briefing
++                                        （NO.9, 2013）（第几期）
++ Sales Department, ABC Corporation                                                  December 30,2013
++    The Sales Conference of the Year is held officially in the 2nd Meeting Hall on December 30,2013.
++ Members of the Board, the Chief Account and other accounts, all the department mangers, deputy
++ managers, and sales represntatives are all present. The conference is presided over by Mr. David Brown,
++ the Managing Director. On behalf of the Board, he gives a full review of the sales performance in the 
++ past year and makes arrangement for the year 2014.
++
++ The conference makes a thorough summary of the sales business in the past year and gives the following
++ details: first, great progress has been made in the sales volume; second, all the present clients have
++ been kept and more new clients have been developed; what's more, more foreign markets have been merged
++ into and more profound influence has been spread all over the markets. However, there are still some
++ room crying for improvement, such as the range of products, the spread of delivery, the protection of 
++ package and the arrangement for shipment. The conference also set regulations for achieving the goals
++ of the next year. First, the sales department should make the business objective as clear and dividable
++ as possible, so as to make the salespeople know whether they can achieve it or not and how to make it 
++ come true; Second, other departments concerned shoud do everything they could do to collaborate and
++ cooperate with the salespeople so as to make their work easy to go.
++
++    When making his summary of the conference, Mr. David Brown says that the work emphasis for the year
++ 2014 will accordingly be shifted to these items mentioned above and all the departments concerned should
++ make detailed planning and strategies to combat the shortcomings so as to make new progress in the new
++ year.
++
++    Submission to: the Board of Director (上报公司董事会)
++    Sending to: All the other Departments(呈送其他部门)
++    Detaching to: All the sales staff（下发销售人员）
++    (100 copies totally)
++
++<p>{{ page.date | date_to_string }}</p> 
