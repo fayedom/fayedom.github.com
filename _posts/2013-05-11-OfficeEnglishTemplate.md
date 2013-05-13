@@ -37,7 +37,39 @@ tags: [English, Note, 便条, Announcement, 启事]
       Tel. of Sales Dept.:(0086-10)6379 5078
                                                                                     ABC Corporation
                                                                                  February 20th,2013
-    
+  3. Briefing(简报)
+  
+      Key: Timely, Concise, To the Point
+      Template:
+                               ABC Corporation Sales Conference Briefing
+                                        （NO.9, 2013）（第几期）
+      Sales Department, ABC Corporation                                                  December 30,2013
+      The Sales Conference of the Year is held officially in the 2nd Meeting Hall on December 30,2013.
+      Members of the Board, the Chief Account and other accounts, all the department mangers, deputy
+      managers, and sales represntatives are all present. The conference is presided over by Mr. David Brown,
+      the Managing Director. On behalf of the Board, he gives a full review of the sales performance in the 
+      past year and makes arrangement for the year 2014.
+
+      The conference makes a thorough summary of the sales business in the past year and gives the following
+      details: first, great progress has been made in the sales volume; second, all the present clients have
+      been kept and more new clients have been developed; what's more, more foreign markets have been merged
+      into and more profound influence has been spread all over the markets. However, there are still some
+      room crying for improvement, such as the range of products, the spread of delivery, the protection of 
+      package and the arrangement for shipment. The conference also set regulations for achieving the goals
+      of the next year. First, the sales department should make the business objective as clear and dividable
+      as possible, so as to make the salespeople know whether they can achieve it or not and how to make it 
+      come true; Second, other departments concerned shoud do everything they could do to collaborate and
+      cooperate with the salespeople so as to make their work easy to go.
+
+      When making his summary of the conference, Mr. David Brown says that the work emphasis for the year
+      2014 will accordingly be shifted to these items mentioned above and all the departments concerned should
+      make detailed planning and strategies to combat the shortcomings so as to make new progress in the new
+      year.
+
+      Submission to: the Board of Director (上报公司董事会)
+      Sending to: All the other Departments(呈送其他部门)
+      Detaching to: All the sales staff（下发销售人员）
+      (100 copies totally)
 
 
 <p>{{ page.date | date_to_string }}</p> 
