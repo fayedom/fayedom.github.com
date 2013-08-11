@@ -45,4 +45,18 @@ tags: [PPT]
       求字体网: http://www.myfonts.com/WhatTheFont
   
   
-  2.
+  2.图片
+      
+      (1) 支持格式：.jpg .jepg .png .gif .wmf .emf(剪贴画，矢量图) .bmp
+      (2) 图片网站：
+          昵图网： http://www.nipic.com
+          全景图:  http://www.quanjing.com
+          影美晴:  http://www.inmagine.com
+          素材天下: http://www.sucaitianxia.com
+          华盖创意: http://www.gettyimages.cn
+          中国新闻： http://www.cnsphoto.com
+          影响图片: http://www.viewstock.com
+          花瓣：http://huaban.com
+          IT.me: http://www.topit.me
+      (3) 图标文件
+      
